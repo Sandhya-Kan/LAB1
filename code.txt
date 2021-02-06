@@ -1,0 +1,4 @@
+Initializing value to a variable x
+{
+int x=10;
+}
